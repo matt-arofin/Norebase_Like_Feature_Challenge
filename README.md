@@ -20,7 +20,7 @@ This project implements a "Like" button feature for articles, allowing users to 
 2. Restore dependencies
 3. Run migrations (`dotnet ef database update`)
 4. Start application (`dotnet run`)
-5. View and access endpoints via `http://localhost:7279/swagger`
+5. View and access endpoints via `http://localhost:7279/swagger` (Can be configured in launchsettings.json)
 
 ### Challenge Responses
 
